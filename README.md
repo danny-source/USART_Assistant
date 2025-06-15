@@ -58,5 +58,19 @@ mreader_assistant.exe -> mreader_assistant.json (RFID reader settings)
 2. Run the installer
 3. Launch USART Assistant
 
-## License
-[Your chosen license]
+## Screen Shot
+
+![](screenshot/com.png)
+
+![](screenshot/receive.png)
+
+![](screenshot/transmit.png)
+
+![](screenshot/conveter.png)
+
+![](screenshot/calculator.png)
+
+
+## Donate
+
+[![Donate with PayPal](https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png)](https://www.paypal.me/dannytwdanny)
